@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="redoapp-bootstrap:ejb">
+    <output-path>$PROJECT_DIR$/redoapp-bootstrap/target</output-path>
+    <root id="archive" name="redoapp-bootstrap-1.0-SNAPSHOT.jar">
+      <element id="artifact" artifact-name="redoapp-bootstrap:ejb exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="redoapp-ear:ear">
+    <output-path>$PROJECT_DIR$/redoapp-ear/target</output-path>
+    <root id="archive" name="redoapp.ear">
+      <element id="artifact" artifact-name="redoapp-ear:ear exploded" />
+    </root>
+  </artifact>
+</component>

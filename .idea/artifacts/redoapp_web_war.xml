@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="redoapp-web:war">
+    <output-path>$PROJECT_DIR$/redoapp-web/target</output-path>
+    <root id="archive" name="redoapp-web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="redoapp-web:war exploded" />
+    </root>
+  </artifact>
+</component>
